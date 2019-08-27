@@ -1,0 +1,8 @@
+-------PREGUNTA 2
+Objetivos que el creador de Git se propuso implementar:
+
+	- Casi todas las operaciones sean locales
+	- Copias instantaneas
+	- Poder regresar a versiones anteriores de tus archivos para poder comparar
+
+Linux
